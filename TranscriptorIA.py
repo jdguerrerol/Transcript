@@ -52,7 +52,7 @@ from moviepy.editor import VideoFileClip
 from io import StringIO
 
 # Cargar el logo desde la ruta del archivo que has subido
-st.sidebar.image("C:/Users/LENOVO/Documents/Automatizacion BANCO/logo_BP.png", use_column_width=True)
+st.sidebar.image("logo_BP.png", use_column_width=True)
 
 st.title("Transcriptor de Audio y Video")
 
