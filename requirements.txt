@@ -1,5 +1,4 @@
 streamlit
 openai-whisper
 moviepy
-moviepy.editor
 torch  # Requerido para modelos de Whisper
